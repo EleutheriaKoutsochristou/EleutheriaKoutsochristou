@@ -12,7 +12,7 @@ My name is Eleutheria Koutsochristou, i am 24 years olds and studying at Athens 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+### 📫 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/eleutheria-koutsochristou)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=white)](mailto:koutsochristou.eleutheria@gmail.com)
