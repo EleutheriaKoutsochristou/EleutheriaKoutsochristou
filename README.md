@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Eleutheria Koutsochristou, i am 24 years olds and studying at Athens University of Economics and Business.
+My name is Eleutheria Koutsochristou and i am studying at Athens University of Economics and Business.
 ### Languages
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=logoColor=007396)
