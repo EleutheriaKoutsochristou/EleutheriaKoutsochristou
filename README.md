@@ -1,21 +1,30 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hi there, I'm Eleftheria! 👋
 
-My name is Eleutheria Koutsochristou, i am currently doing my Master's at University of Pireus in "Advanced Information Systems – Software Development and Artificial Intelligence"
-and a Computer science graduate of Athens University of Economics and Business.
-### Languages
+🎓 **MSc Candidate in Software Development & Artificial Intelligence** at University of Piraeus  
+🏛️ **BSc in Computer Science** from Athens University of Economics and Business (AUEB)  
+💼 Passionate about **Full-Stack Web Development**, **Mobile Applications**, and **Distributed Systems**.
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+---
 
-### 📫 Socials:
+### 🛠️ Tech Stack & Skills
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/eleutheria-koutsochristou)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=white)](mailto:koutsochristou.eleutheria@gmail.com)
+- **Languages:** Python, Java, TypeScript, JavaScript, SQL, C++, Kotlin
+- **Frontend & Mobile:** React, Vite, Android SDK, HTML5/CSS3
+- **Backend & APIs:** FastAPI, RESTful APIs, JWT Authentication, SQLAlchemy, Alembic
+- **Databases:** PostgreSQL, MySQL, SQLite / Room
+- **Tools & Practices:** Git, GitHub, Docker, Postman, Distributed Systems (MapReduce)
 
-![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord&logoColor=white) eleutheriak
+---
+
+### 🚀 Highlighted Projects
+
+- 🏢 **[MyDesk](#)**: Full-stack desk reservation platform built with React, TypeScript, FastAPI, PostgreSQL, and JWT auth.
+- 📱 **[CityPoints](https://github.com/EleutheriaKoutsochristou/CityPoints)**: Android app tracking urban sustainability points with automated background GPS geolocation and Room DB.
+- 🏃 **[TrackingApp](https://github.com/EleutheriaKoutsochristou/TrackingApp)**: Distributed fitness activity tracker processing GPX telemetry via a Master-Slave MapReduce architecture.
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/eleutheria-koutsochristou)
+- 📧 [Email](mailto:koutsochristou.eleutheria@gmail.com)
