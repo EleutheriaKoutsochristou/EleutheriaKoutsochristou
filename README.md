@@ -2,7 +2,7 @@
 
 🎓 **MSc Candidate in Software Development & Artificial Intelligence** at University of Piraeus  
 🏛️ **BSc in Computer Science** from Athens University of Economics and Business (AUEB)  
-💼 **Full-Stack Web Development**, **Mobile Applications**, and **Distributed Systems**.
+
 
 ---
 
