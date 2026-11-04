@@ -1,4 +1,4 @@
-# Hi there, I'm Eleftheria! 👋
+# Hi there, I'm Eleutheria! 👋
 
 🎓 **MSc Candidate in Software Development & Artificial Intelligence** at University of Piraeus  
 🏛️ **BSc in Computer Science** from Athens University of Economics and Business (AUEB)  
