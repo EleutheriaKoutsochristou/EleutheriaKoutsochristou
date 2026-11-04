@@ -18,7 +18,7 @@
 
 ### 🚀 Highlighted Projects
 
-- 🏢 **[MyDesk]([#](https://github.com/EleutheriaKoutsochristou/MyDesk-backend))**: Full-stack desk reservation platform built with React, TypeScript, FastAPI, PostgreSQL, and JWT auth.
+- 🏢 **[MyDesk](https://github.com/EleutheriaKoutsochristou/MyDesk-backend)**: Full-stack desk reservation platform built with React, TypeScript, FastAPI, PostgreSQL, and JWT auth.
 - 📱 **[CityPoints](https://github.com/EleutheriaKoutsochristou/CityPoints)**: Android app tracking urban sustainability points with automated background GPS geolocation and Room DB.
 - 🏃 **[TrackingApp](https://github.com/EleutheriaKoutsochristou/TrackingApp)**: Distributed fitness activity tracker processing GPX telemetry via a Master-Slave MapReduce architecture.
 
